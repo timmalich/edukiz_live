@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.c87664a23c111f252f0091dbcdf568c8.js"
+  "precache-manifest.8b73169ef5418b02e5f662355c7e7b3c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "edukiz"});
